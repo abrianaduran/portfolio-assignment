@@ -1,0 +1,55 @@
+.wrapper{
+  margin:auto;
+  width:500px;
+}
+.cushion{
+  padding:10px;
+}
+body{
+  background-color:bisque;
+}
+div{
+  background-color:antiquewhite;
+  border-radius:8px;
+}
+header{
+  background-color:antiquewhite;
+}
+footer{
+  background-color:antiquewhite;
+  text-align:center;
+}
+a:link{
+  color:olive;
+}
+a:visited{
+  color:peru;
+}
+a:hover{
+  color:aquamarine;
+}
+a:active{
+  color:turquoise;
+}
+h2{
+  padding-top:25px;
+  padding-left:25px;
+  
+}
+.text{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rosybrown;
+}
+.text-cushion{
+  padding-left:25px;
+  padding-right:25px;
+}
+.last-cushion{
+  padding-bottom:25px;
+}
+h1{
+  height:5px;
+}
+h3{
+  padding-left:10px;
+}
